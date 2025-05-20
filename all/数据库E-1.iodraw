@@ -26,10 +26,10 @@
           <mxGeometry x="160" y="105" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="C_a-t40RMhRfHgHLRF8S-19" value="工资表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="260" width="160" height="140" as="geometry" />
+          <mxGeometry x="60" y="240" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="C_a-t40RMhRfHgHLRF8S-20" value="工资ID&lt;div&gt;月份&lt;/div&gt;&lt;div&gt;应发工资&lt;/div&gt;&lt;div&gt;扣除&lt;/div&gt;&lt;div&gt;实发工资&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="C_a-t40RMhRfHgHLRF8S-19">
-          <mxGeometry y="50" width="160" height="90" as="geometry" />
+          <mxGeometry y="50" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
