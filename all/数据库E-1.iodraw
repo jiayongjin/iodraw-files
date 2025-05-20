@@ -49,6 +49,9 @@
         <mxCell id="C_a-t40RMhRfHgHLRF8S-27" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="70" y="190" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="C_a-t40RMhRfHgHLRF8S-28" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
