@@ -13,7 +13,7 @@
         <mxCell id="C_a-t40RMhRfHgHLRF8S-4" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="C_a-t40RMhRfHgHLRF8S-1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C_a-t40RMhRfHgHLRF8S-5" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="C_a-t40RMhRfHgHLRF8S-5" value="员工" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="460" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C_a-t40RMhRfHgHLRF8S-6" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="C_a-t40RMhRfHgHLRF8S-5">
