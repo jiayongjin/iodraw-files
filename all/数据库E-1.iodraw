@@ -55,6 +55,9 @@
         <mxCell id="C_a-t40RMhRfHgHLRF8S-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;职称ID&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;职称名称&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="C_a-t40RMhRfHgHLRF8S-29">
           <mxGeometry y="50" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="C_a-t40RMhRfHgHLRF8S-31" value="职称" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="190" width="95" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
