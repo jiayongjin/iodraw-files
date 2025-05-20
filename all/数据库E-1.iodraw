@@ -56,7 +56,13 @@
           <mxGeometry y="50" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C_a-t40RMhRfHgHLRF8S-31" value="职称" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="190" width="95" height="30" as="geometry" />
+          <mxGeometry x="417.5" y="180" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C_a-t40RMhRfHgHLRF8S-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
