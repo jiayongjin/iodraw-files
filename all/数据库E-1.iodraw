@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C_a-t40RMhRfHgHLRF8S-10" value="部门" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="60" width="160" height="120" as="geometry" />
+          <mxGeometry x="360" y="50" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="C_a-t40RMhRfHgHLRF8S-11" value="部门ID&lt;div&gt;用户名称&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="C_a-t40RMhRfHgHLRF8S-10">
+        <mxCell id="C_a-t40RMhRfHgHLRF8S-11" value="部门ID&lt;div&gt;部门名称&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="C_a-t40RMhRfHgHLRF8S-10">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C_a-t40RMhRfHgHLRF8S-12" value="员工" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
