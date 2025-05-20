@@ -16,6 +16,9 @@
         <mxCell id="C_a-t40RMhRfHgHLRF8S-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;员工ID&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;姓名&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;性别&lt;/font&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="C_a-t40RMhRfHgHLRF8S-12">
           <mxGeometry y="50" width="90" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="C_a-t40RMhRfHgHLRF8S-16" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
