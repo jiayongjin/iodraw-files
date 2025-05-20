@@ -32,7 +32,7 @@
           <mxGeometry y="50" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="C_a-t40RMhRfHgHLRF8S-21" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="290" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
