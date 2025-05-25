@@ -20,7 +20,7 @@
           <mxGeometry x="610" y="440" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-82" value="&lt;div&gt;SalaryType&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="535" width="75" height="30" as="geometry" />
+          <mxGeometry x="200" y="510" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-83" value="Salary" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="25" y="410" width="75" height="30" as="geometry" />
