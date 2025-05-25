@@ -111,7 +111,7 @@
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-109" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="clsq9cF129yGmi6w5ryv-108">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-18" y="-28" as="offset" />
+            <mxPoint x="-22" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-111" value="发放" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
