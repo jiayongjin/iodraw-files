@@ -14,10 +14,10 @@
           <mxGeometry x="250" y="400" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-80" value="Department" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="340" width="75" height="30" as="geometry" />
+          <mxGeometry x="580" y="340" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-81" value="Position" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="75" height="30" as="geometry" />
+          <mxGeometry x="610" y="440" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-82" value="&lt;div&gt;SalaryType&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="75" height="30" as="geometry" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-98" value="所属" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="388" y="370" width="75" height="30" as="geometry" />
+          <mxGeometry x="445" y="360" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-101" value="" style="endArrow=none;html=1;rounded=0;exitX=0.966;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.038;entryY=0.509;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="clsq9cF129yGmi6w5ryv-98" target="clsq9cF129yGmi6w5ryv-80">
           <mxGeometry relative="1" as="geometry">
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-105" value="担任" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="430" width="75" height="30" as="geometry" />
+          <mxGeometry x="445" y="430" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-106" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.96;exitY=0.478;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="clsq9cF129yGmi6w5ryv-105" target="clsq9cF129yGmi6w5ryv-81">
           <mxGeometry relative="1" as="geometry">
