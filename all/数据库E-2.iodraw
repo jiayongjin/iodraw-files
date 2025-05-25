@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-98" value="所属" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="335" width="75" height="60" as="geometry" />
+          <mxGeometry x="230" y="350" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
