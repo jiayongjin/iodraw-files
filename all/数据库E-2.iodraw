@@ -23,7 +23,7 @@
           <mxGeometry x="190" y="550" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-83" value="Salary" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="25" y="410" width="75" height="30" as="geometry" />
+          <mxGeometry x="45" y="420" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-84" value="User" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="600" width="75" height="30" as="geometry" />
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-111" value="发放" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="75" height="30" as="geometry" />
+          <mxGeometry x="170" y="420" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-112" value="" style="endArrow=none;html=1;rounded=0;exitX=0.991;exitY=0.593;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.025;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="clsq9cF129yGmi6w5ryv-111" target="clsq9cF129yGmi6w5ryv-79">
           <mxGeometry relative="1" as="geometry">
