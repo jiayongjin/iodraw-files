@@ -4,24 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="clsq9cF129yGmi6w5ryv-26" value="Employee" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="250" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-67" value="Department" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="260" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-69" value="Position" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="430" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-70" value="&lt;b&gt;position_id&lt;/b&gt;&lt;div&gt;position_name&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="clsq9cF129yGmi6w5ryv-69">
-          <mxGeometry y="50" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-71" value="SalaryType" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-72" value="&lt;b&gt;type_id&lt;/b&gt;&lt;div&gt;type_name&lt;/div&gt;&lt;div&gt;base_id&lt;/div&gt;&lt;div&gt;bonus_rate&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="clsq9cF129yGmi6w5ryv-71">
-          <mxGeometry y="50" width="120" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-75" value="User" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="580" width="120" height="120" as="geometry" />
         </mxCell>
