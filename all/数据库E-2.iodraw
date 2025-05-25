@@ -16,10 +16,10 @@
         <mxCell id="clsq9cF129yGmi6w5ryv-80" value="Department" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-81" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="clsq9cF129yGmi6w5ryv-81" value="Position" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-82" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="clsq9cF129yGmi6w5ryv-82" value="&lt;div&gt;SalaryType&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-83" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
