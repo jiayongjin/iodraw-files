@@ -17,7 +17,7 @@
           <mxGeometry x="370" y="350" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-81" value="Position" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="110" y="490" width="75" height="30" as="geometry" />
+          <mxGeometry x="320" y="535" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-82" value="&lt;div&gt;SalaryType&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="495" y="430" width="75" height="30" as="geometry" />
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-105" value="担任" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="75" height="30" as="geometry" />
+          <mxGeometry x="240" y="420" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
