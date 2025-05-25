@@ -92,14 +92,16 @@
         <mxCell id="clsq9cF129yGmi6w5ryv-105" value="担任" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="430" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-106" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="clsq9cF129yGmi6w5ryv-106" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="clsq9cF129yGmi6w5ryv-81">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="500" as="sourcePoint" />
             <mxPoint x="350" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-107" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="clsq9cF129yGmi6w5ryv-106">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
