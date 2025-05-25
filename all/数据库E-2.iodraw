@@ -49,7 +49,7 @@
         <mxCell id="clsq9cF129yGmi6w5ryv-94" value="dept_id" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="71" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-95" value="" style="endArrow=none;html=1;rounded=0;exitX=0.977;exitY=0.459;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="clsq9cF129yGmi6w5ryv-94">
+        <mxCell id="clsq9cF129yGmi6w5ryv-95" value="" style="endArrow=none;html=1;rounded=0;exitX=0.977;exitY=0.459;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.036;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="clsq9cF129yGmi6w5ryv-94" target="clsq9cF129yGmi6w5ryv-79">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="500" as="sourcePoint" />
             <mxPoint x="350" y="500" as="targetPoint" />
