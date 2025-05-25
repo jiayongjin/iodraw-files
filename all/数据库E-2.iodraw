@@ -167,7 +167,7 @@
         <mxCell id="clsq9cF129yGmi6w5ryv-122" value="关联" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="345" y="535" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="clsq9cF129yGmi6w5ryv-123" value="" style="endArrow=none;html=1;rounded=0;entryX=0.51;entryY=-0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="clsq9cF129yGmi6w5ryv-84">
+        <mxCell id="clsq9cF129yGmi6w5ryv-123" value="" style="endArrow=none;html=1;rounded=0;entryX=0.51;entryY=-0.066;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.517;exitY=0.932;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="clsq9cF129yGmi6w5ryv-122" target="clsq9cF129yGmi6w5ryv-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="500" as="sourcePoint" />
             <mxPoint x="430" y="500" as="targetPoint" />
