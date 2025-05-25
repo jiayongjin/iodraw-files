@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="225" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-79" value="Employee" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="390" width="75" height="30" as="geometry" />
+          <mxGeometry x="250" y="400" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-80" value="Department" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="340" width="75" height="30" as="geometry" />
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="clsq9cF129yGmi6w5ryv-111" value="发放" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="440" width="75" height="30" as="geometry" />
+          <mxGeometry x="120" y="440" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
